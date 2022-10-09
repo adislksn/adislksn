@@ -1,8 +1,7 @@
 Hi I'm Adi 👋🏻
 =
 Undergraduate Student at ITERA & tech enthusiast
--
- <p align="center">
+ <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adislksn&color=blueviolet" alt="Profile views" />
   &nbsp;
   <a href="https://github.com/adislksn?tab=followers">
@@ -11,7 +10,7 @@ Undergraduate Student at ITERA & tech enthusiast
 </p>
 
 &nbsp;
-## 🛠️ &nbsp;My Tech Stacks
+🛠️ &nbsp;My Tech Stacks
 ---
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
