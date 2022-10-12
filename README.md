@@ -28,6 +28,19 @@ Undergraduate Student at ITERA & tech enthusiast
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-0D1117?style=flat&logo=unity)&nbsp;
 ![Spark AR](https://img.shields.io/badge/-Spark%20AR-0D1117?style=flat&logo=spark-ar&logoColor=turquoise)&nbsp;
-&nbsp;
 
-<img src="https://metrics.lecoq.io/adislksn?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FJakarta" alt="Metrics">
+&nbsp;
+🧛🏻 &nbsp;You can reach me at
+---
+<a href="https://instagram.com/adislksn">
+ <img src="https://img.shields.io/badge/-instagram-0D1117?style=flat&logo=instagram">
+</a>
+&nbsp;
+<a href="https://linkedin.com/adislksn">
+ <img src="https://img.shields.io/badge/-linkedin-0D1117?style=flat&logo=linkedin&logoColor=blue">
+</a>
+&nbsp;
+<a href="mailto:adislksn@gmail.com">
+ <img src="https://img.shields.io/badge/-gmail-0D1117?style=flat&logo=gmail&logoColor=rose">
+</a>
+
