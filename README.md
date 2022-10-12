@@ -30,4 +30,4 @@ Undergraduate Student at ITERA & tech enthusiast
 ![Spark AR](https://img.shields.io/badge/-Spark%20AR-0D1117?style=flat&logo=spark-ar&logoColor=turquoise)&nbsp;
 &nbsp;
 
-<img align="center" src="https://metrics.lecoq.io/adislksn?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FJakarta" alt="Metrics">
+<img src="https://metrics.lecoq.io/adislksn?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FJakarta" alt="Metrics">
