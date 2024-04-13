@@ -1,6 +1,6 @@
 Hi I'm Adi 👋🏻
 =
-Student at ITERA & tech enthusiast
+Student at ITERA & CyberSecurity enthusiast
  <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adislksn&color=blueviolet" alt="Profile views" />
   &nbsp;
@@ -16,6 +16,7 @@ Student at ITERA & tech enthusiast
 ![Next](https://img.shields.io/badge/-Next-0D1117?style=flat&logo=nextdotjs)&nbsp;
 ![Nest](https://img.shields.io/badge/-Nest-0D1117?style=flat&logo=nestjs&logoColor=red)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-0D1117?style=flat&logo=vuedotjs)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=flat&logo=tailwind-css)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap)&nbsp;
