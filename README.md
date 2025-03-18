@@ -1,6 +1,6 @@
 Hi I'm Adi 👋🏻
 =
-Student at ITERA & CyberSecurity enthusiast
+Full-stack Web Developer & CyberSecurity enthusiast
  <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adislksn&color=blueviolet" alt="Profile views" />
   &nbsp;
