@@ -14,7 +14,7 @@ Student at ITERA & CyberSecurity enthusiast
 ---
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat&logo=laravel)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-0D1117?style=flat&logo=nextdotjs)&nbsp;
-![Nest](https://img.shields.io/badge/-Nest-0D1117?style=flat&logo=nestjs&logoColor=red)&nbsp;
+![Nuxt](https://img.shields.io/badge/-Nuxt-0D1117?style=flat&logo=nuxt)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-0D1117?style=flat&logo=vuedotjs)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
@@ -24,15 +24,19 @@ Student at ITERA & CyberSecurity enthusiast
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JS-0D1117?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TS-0D1117?style=flat&logo=typescript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat&logo=php)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat&logo=c%2B%2B&logoColor=blue)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-0D1117?style=flat&logo=github)&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlab-0D1117?style=flat&logo=gitlab)&nbsp;
+![n8n](https://img.shields.io/badge/-n8n-0D1117?style=flat&logo=n8n)&nbsp;
+![OpenAI](https://img.shields.io/badge/-OpenAI-0D1117?style=flat&logo=openai)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-web-services)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=flat&logo=cypress)&nbsp;
+![BurpSuite](https://img.shields.io/badge/-Burp%20Suite-0D1117?style=flat&logo=burp-suite)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=flat&logo=arduino)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-0D1117?style=flat&logo=unity)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat&logo=figma)&nbsp;
 ![Spark AR](https://img.shields.io/badge/-Spark%20AR-0D1117?style=flat&logo=spark-ar&logoColor=turquoise)&nbsp;
@@ -45,7 +49,7 @@ Student at ITERA & CyberSecurity enthusiast
 </a>
 &nbsp;
 <a href="https://linkedin.com/adislksn">
- <img src="https://img.shields.io/badge/-linkedin-0D1117?style=flat&logo=linkedin&logoColor=blue">
+ <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
 </a>
 &nbsp;
 <a href="mailto:adislksn@gmail.com">
