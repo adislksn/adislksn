@@ -47,7 +47,7 @@ Full-stack Web Developer & DevOps
  <img src="https://img.shields.io/badge/-instagram-0D1117?style=flat&logo=instagram">
 </a>
 &nbsp;
-<a href="https://linkedin.com/adislksn">
+<a href="https://www.linkedin.com/in/adislksn">
  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
 </a>
 &nbsp;
